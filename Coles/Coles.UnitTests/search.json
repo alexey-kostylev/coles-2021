@@ -1,0 +1,74 @@
+﻿{
+  "created": "2021-07-22T00:40:47.519Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "05da26e5-6ee9-4d5c-97b2-a596e23fbda7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tuatara",
+      "sort-name": "Tuatara",
+      "gender": "male",
+      "country": "BY",
+      "area": {
+        "id": "660e3c48-b301-3c8c-9708-0f71d5d094d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belarus",
+        "sort-name": "Belarus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Glitch Hop, Bass, Psychill project of Alexey Gerasimov from Belarus.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "de67fe94-c33c-4f09-b0d1-015fd51f3845",
+      "score": 38,
+      "name": "Mindgamers",
+      "sort-name": "Mindgamers",
+      "disambiguation": "Progressive House / Tech House producers Alexey Zatsepilin (DJ Zas) & Dmitri Makovi (Sanze)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7358182f-42d9-4b1a-a700-1a1b6927becc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "In5um",
+      "sort-name": "In5um",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moskva",
+        "sort-name": "Moskva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moskva",
+        "sort-name": "Moskva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian house/trance producer duo Алексей Куликов (Alexey Kulikov) and Михаил Бекетов (Mikhail Beketov)",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

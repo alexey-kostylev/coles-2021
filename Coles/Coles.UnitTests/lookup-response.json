@@ -1,0 +1,88 @@
+{
+  "release-count": 2,
+  "release-offset": 0,
+  "releases": [
+    {
+      "asin": null,
+      "disambiguation": "",
+      "title": "Danse Macabre",
+      "date": "2015-02-11",
+      "quality": "normal",
+      "cover-art-archive": {
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "count": 1,
+        "artwork": true
+      },
+      "id": "4dbce414-a563-49d5-8c90-4ac8216cc1aa",
+      "release-events": [
+        {
+          "date": "2015-02-11",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "type-id": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "name": "[Worldwide]"
+          }
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "None",
+      "status": "Official",
+      "country": "XW",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "barcode": null
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "None",
+      "status": "Official",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": null,
+      "country": "XW",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "asin": null,
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "darkened": false,
+        "artwork": true,
+        "count": 1
+      },
+      "id": "5011337f-f2a5-4d67-baf6-dab5a641a423",
+      "release-events": [
+        {
+          "date": "2016-03-19",
+          "area": {
+            "sort-name": "[Worldwide]",
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "disambiguation": "",
+      "title": "Hell or High Water",
+      "quality": "normal",
+      "date": "2016-03-19"
+    }
+  ]
+}
